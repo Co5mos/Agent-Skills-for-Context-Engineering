@@ -7,7 +7,7 @@ This reference details specific techniques for mitigating known biases in LLM-as
 ### The Problem
 
 In pairwise comparison, LLMs systematically prefer responses in certain positions. Research shows:
-- GPT-4 has mild first-position bias (~55% preference for first position in ties)
+- GPT has mild first-position bias (~55% preference for first position in ties)
 - Claude shows similar patterns
 - Smaller models often show stronger bias
 
@@ -137,11 +137,11 @@ Use a different model family for evaluation than generation:
 def get_evaluator_model(generator_model):
     """Select evaluator to avoid self-enhancement bias."""
     if 'gpt' in generator_model.lower():
-        return 'claude-3-5-sonnet'
+        return 'claude-4-5-sonnet'
     elif 'claude' in generator_model.lower():
-        return 'gpt-4o'
+        return 'gpt-5.2'
     else:
-        return 'gpt-4o'  # Default
+        return 'gpt-5.2'  # Default
 ```
 
 ### Mitigation: Blind Evaluation
