@@ -1,5 +1,8 @@
 {
   "name": "context-engineering-marketplace",
+  "owner": {
+    "name": "Muratcan Koylan"
+  },
   "description": "Marketplace for Context Engineering skills library",
   "plugins": [
     {
