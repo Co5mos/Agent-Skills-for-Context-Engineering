@@ -1,3 +1,10 @@
+---
+name: production-grade-llm-agents
+description: Comprehensive technical analysis of production-grade LLM agents covering multi-agent architectures, context management, attention degradation, memory systems, and agent reliability patterns.
+doc_type: research
+source_url: No
+---
+
 Engineering Production-Grade LLM Agents: A Technical Deep Dive
 The shift from prompt engineering to context engineering represents the most significant paradigm change in building LLM agents. As Anthropic's research articulates, the challenge isn't writing better prompts—it's curating "the smallest possible set of high-signal tokens that maximize the likelihood of desired outcomes." Inkeepanthropic This report synthesizes technical findings from major AI labs and framework developers on multi-agent architectures, context management, attention degradation, and agent reliability patterns.
 Multi-agent architectures: From orchestrators to swarms

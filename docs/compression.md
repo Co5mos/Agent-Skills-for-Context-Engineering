@@ -1,3 +1,10 @@
+---
+name: context-compression-evaluation
+description: Evaluation framework for measuring how much context different compression strategies preserve in AI agents, comparing structured summarization with alternatives from OpenAI and Anthropic.
+doc_type: research
+source_url: No
+---
+
 Evaluating Context Compression for AI Agents
 By Factory Research - December 16, 2025 - 10 minute read -
 

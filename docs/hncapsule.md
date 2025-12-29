@@ -1,3 +1,10 @@
+---
+name: karpathy-hn-time-capsule
+description: Andrej Karpathy's project auto-grading decade-old Hacker News discussions using GPT 5.1 Thinking to identify prescient and incorrect predictions with hindsight analysis.
+doc_type: blog
+source_url: https://karpathy.bearblog.dev/auto-grade-hn/
+---
+
 https://karpathy.bearblog.dev/auto-grade-hn/
 - A lot more detail in my blog post https://karpathy.bearblog.dev/auto-grade-hn/
 - GitHub repo of the project if you'd like to play https://github.com/karpathy/hn-time-capsule

@@ -1,3 +1,10 @@
+---
+name: agent-skills-format
+description: Official documentation for the Agent Skills format - a lightweight, open standard for extending AI agent capabilities with specialized knowledge and workflows.
+doc_type: reference
+source_url: No
+---
+
 Overview
 
 Copy page

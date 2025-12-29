@@ -51,3 +51,9 @@ htmlcov/
 
 # Dashboard (separate private repo)
 dashboard/
+
+# Private folder - never push to public repo
+Private/
+
+# Cursor IDE
+.cursor/

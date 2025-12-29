@@ -1,6 +1,11 @@
-https://vercel.com/blog/we-removed-80-percent-of-our-agents-tools
+---
+name: vercel-tool-reduction
+description: Vercel's case study on removing 80% of their agent's specialized tools and replacing them with a single file system agent tool, resulting in 100% success rate and improved performance.
+doc_type: blog
+source_url: https://vercel.com/blog/we-removed-80-percent-of-our-agents-tools
+---
 
-We removed 80% of our agent’s tools
+We removed 80% of our agent's tools
 
 Andrew Qu
 Chief of Software, Vercel

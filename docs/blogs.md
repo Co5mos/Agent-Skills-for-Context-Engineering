@@ -1,3 +1,10 @@
+---
+name: context-engineering-blogs
+description: Collection of technical blogs about context engineering, covering strategies for managing context windows in agent systems including write, select, compress, and isolate patterns.
+doc_type: blog
+source_url: No
+---
+
 Some technical blogs that I recently read and find valuable:
 
 (Context Engineering
